@@ -6,7 +6,8 @@ using System.Text;
 using System.Threading.Tasks;
 using UI;
 
-namespace BigFileWatcherVM.ViewModels
+namespace Presenters.Presenters.General
+
 {
    public class GeneralPresenter
     {

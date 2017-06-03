@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigFileWatcherVM", "BigFileWatcherVM\BigFileWatcherVM.csproj", "{937DD45F-9FA5-4463-830B-8C7EB5A09883}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presenters", "BigFileWatcherVM\Presenters.csproj", "{937DD45F-9FA5-4463-830B-8C7EB5A09883}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{E30AB156-3CB4-45B9-9093-9E51E29E35B4}"
 EndProject
